@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CHAMPIONS>
+   <FINAL>
+      <PARTIDO>
+         <EQUIPO>betis</EQUIPO>
+         <EQUIPO>barsa</EQUIPO>
+      </PARTIDO>
+   </FINAL>
+   <SEMIFINAL>
+      <PARTIDO>
+         <EQUIPO>madrid</EQUIPO>
+         <EQUIPO>barsa</EQUIPO>
+      </PARTIDO>
+   </SEMIFINAL>
+   <SEMIFINAL>
+      <PARTIDO>
+         <EQUIPO>sevilla</EQUIPO>
+         <EQUIPO>betis</EQUIPO>
+      </PARTIDO>
+   </SEMIFINAL>
+</CHAMPIONS>
